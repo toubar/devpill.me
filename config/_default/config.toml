@@ -1,4 +1,4 @@
-baseurl = "https://devpill-me.vercel.app/"
+baseurl = "https://toubar.github.io/devpill.me/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true

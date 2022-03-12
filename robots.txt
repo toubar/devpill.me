@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://devpill-me.vercel.app/sitemap.xml
+Sitemap: https://toubar.github.io/devpill.me/sitemap.xml
